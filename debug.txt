@@ -1,0 +1,764 @@
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 10, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО "Видбудова", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Технокит", StatusId: 11, Inout: 1
+ filial: АУ,Org: ООО "Маннесман", StatusId: 4, Inout: 1
+ filial: АУ,Org: ООО НПП "УРАЛЭЛЕКТРА", StatusId: 10, Inout: 1
+ filial: АУ,Org: ООО "Артфуд-Бел", StatusId: 9, Inout: 1
+ filial: АУ,Org: ООО "НПП Белэнергокип", StatusId: 2, Inout: 1
+ filial: АУ,Org: ООО "Пентагрид" (Панов И.Н.), StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КЖУП "Гомельский райжилкомхоз", StatusId: 3, Inout: 1
+ filial: АУ,Org: КСУП «Болотня», StatusId: 9, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ООО «Могилевский светотехнический завод», StatusId: 4, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ПУП "Витебсквторчермет", StatusId: 6, Inout: 1
+ filial: ЛПДС "Полоцк",Org: Ющенко Юлия Александровна, StatusId: 2, Inout: 0
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: ЛПДС "Полоцк",Org: ОАО «Оршанский комбинат хлебопродуктов», StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Витебский мясокомбинат", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Литусово", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Оршанский мясоконсервный комбинат", StatusId: 1, Inout: 1
+ filial: УП "Дружбинец",Org: ОАО "Полоцкий молочный комбинат", StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: ООО "ВитАгриМилкСервисПлюс", StatusId: 3, Inout: 1
+ filial: УП "Дружбинец",Org: Сенненский филиал Витебское областное потребительское общество, StatusId: 2, Inout: 1
+ filial: УП "Дружбинец",Org: УП "ОршаСырЗавод", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: Жук Андрей Васильевич, StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП "Кривск", StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: КСУП «Болотня», StatusId: 3, Inout: 1
+ filial: ЦБПО,Org: ОАО "Бобруйский кожевенный комбинат", StatusId: 5, Inout: 1
+ filial: ЦБПО,Org: ОДО "Строительная компания "СНД", StatusId: 4, Inout: 1
