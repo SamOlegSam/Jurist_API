@@ -62,7 +62,7 @@ namespace ApiMetrolog.Controllers
                 fil = fillist.FirstOrDefault(h => h.FilId == responsible.FilId);
 
                 LoginModel loginmodel = new LoginModel();
-                var token = _tokenService.GenerateToken(loginModel.Login1, responsible.LastName, responsible.FirstName, responsible.MiddleName, FIO, fil.FilId, fil.Name, login.Admin, login.ThemeColor);
+                var token = _tokenService.GenerateToken(loginModel.Login1, responsible.LastName, responsible.FirstName, responsible.MiddleName, FIO, fil.FilId, fil.Name, login.Admin, login.Adds, login.Upds, login.Dels, login.ThemeColor);
                 loginmodel.token = token;
                 loginmodel.Login1 = login.Login;
                 loginmodel.LastName = responsible.LastName;
@@ -70,10 +70,13 @@ namespace ApiMetrolog.Controllers
                 loginmodel.MiddleName = responsible.MiddleName;
                 loginmodel.fio = FIO;
                 loginmodel.Admin = login.Admin;
+                loginmodel.Adds = login.Adds;
+                loginmodel.Upds = login.Upds;
+                loginmodel.Dels = login.Dels;
                 loginmodel.FilialId = fil.FilId;
                 loginmodel.FilialName = fil.Name;
                 loginmodel.ThemeColor = login.ThemeColor;
-
+                                
                 return Ok(loginmodel);
             }
             else

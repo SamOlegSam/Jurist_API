@@ -18,7 +18,7 @@ namespace Jurist.Services
             _configuration = configuration;
         }
 
-        public string GenerateToken(string username, string LastName, string FirstName, string MiddleName, string FIO, int filialId, string filName, int? admin, string ThemeColor)
+        public string GenerateToken(string username, string LastName, string FirstName, string MiddleName, string FIO, int filialId, string filName, int? admin, int? adds, int? upds, int? dels, string ThemeColor)
         {
             var claims = new[]
     {
@@ -30,6 +30,9 @@ namespace Jurist.Services
         new Claim("FilialId", filialId.ToString()),
         new Claim("filName", filName),
         new Claim("Admin", admin.ToString()),
+        new Claim("Adds", adds.ToString()),
+        new Claim("Upds", upds.ToString()),
+        new Claim("Dels", dels.ToString()),
         new Claim("ThemeColor", ThemeColor),
         new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
     };

@@ -16,7 +16,9 @@ public partial class LoginPassword
     public int? EmplId { get; set; }
 
     public int? Admin { get; set; }
-
+    public int? Adds { get; set; }
+    public int? Upds { get; set; }
+    public int? Dels { get; set; }
     public string UserMod { get; set; }
 
     public DateTime? DateMod { get; set; }

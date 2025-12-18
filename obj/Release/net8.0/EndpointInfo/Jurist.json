@@ -1,0 +1,2505 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Jurist",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Authorize/Login": {
+      "post": {
+        "tags": [
+          "Authorize"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginJ"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginJ"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginJ"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Index": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Sotrudniki": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Filials": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Doljnost": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddSotrudnik": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditSotrudnik": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteSotrudnik": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddFilial": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditFilial": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteFilial": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Filial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddDoljnost": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditDoljnost": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteDoljnost": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Doljnost"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Valuta": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddValuta": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditValuta": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteValuta": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Valutum"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Country": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddCountry": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditCountry": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteCountry": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Country"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/City": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddCity": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditCity": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteCity": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/City"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Predmet": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddPredmet": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditPredmet": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeletePredmet": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Predmet"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Status": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddStatus": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditStatus": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteStatus": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Status"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/LoginPassword": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddLoginPassword": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditLoginPassword": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteLoginPassword": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/LoginPassword"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Organization": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddOrganization": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditOrganization": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteOrganization": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Organization"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/Pretense": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddPretense": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditPretense": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeletePretense": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddArchive": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Pretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddResult": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditResult": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/DeleteResult": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretense"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ValutaKurs": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportSvod": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportDruzhbinec": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/PretenseHome": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportConcern": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "string",
+                "format": "date-time"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/PretenseT": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddPretenseT": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditPretenseT": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PretenseValId"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/AddResultT": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/EditResultT": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TablePretenseValId"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportFilial": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "City": {
+        "type": "object",
+        "properties": {
+          "cityId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "countryId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Country": {
+        "type": "object",
+        "properties": {
+          "countryId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "nameFull": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DateFilial": {
+        "type": "object",
+        "properties": {
+          "filialId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dat": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "date": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Doljnost": {
+        "type": "object",
+        "properties": {
+          "doljId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Employee": {
+        "type": "object",
+        "properties": {
+          "emplId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "middleName": {
+            "type": "string",
+            "nullable": true
+          },
+          "filId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "doljId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Filial": {
+        "type": "object",
+        "properties": {
+          "filId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "nameFull": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie1": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie2": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie3": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginJ": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "login1": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "fio": {
+            "type": "string",
+            "nullable": true
+          },
+          "filialId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "admin": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "resId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "filial": {
+            "$ref": "#/components/schemas/Filial"
+          },
+          "res": {
+            "$ref": "#/components/schemas/Employee"
+          }
+        },
+        "additionalProperties": false
+      },
+      "LoginPassword": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "login": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "emplId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "admin": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "themeColor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Organization": {
+        "type": "object",
+        "properties": {
+          "orgId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "unp": {
+            "type": "string",
+            "nullable": true
+          },
+          "counrtyId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "cityId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "address": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie1": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie2": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie3": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Predmet": {
+        "type": "object",
+        "properties": {
+          "predmetId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "predmet1": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie1": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie2": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie3": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Pretense": {
+        "type": "object",
+        "properties": {
+          "pretId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orgId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "numberPret": {
+            "type": "string",
+            "nullable": true
+          },
+          "datePret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "summaDolg": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaPeny": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaProc": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateRassmPret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "visible": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "filId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "inout": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "arhiv": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "predmetId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "summaPoshlina": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "PretenseValId": {
+        "type": "object",
+        "properties": {
+          "pretId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "orgId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "numberPret": {
+            "type": "string",
+            "nullable": true
+          },
+          "datePret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "summaDolg": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaPeny": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaProc": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateRassmPret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "visible": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "filId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "inout": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "arhiv": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "predmetId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "summaPoshlina": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaDolgValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaPenyValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaProcValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaPoshlinaValId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Status": {
+        "type": "object",
+        "properties": {
+          "statusId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TablePretense": {
+        "type": "object",
+        "properties": {
+          "tabPretId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pretId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateTabPret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "summaDolg": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaPeny": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaProc": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "result": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "statusId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "delet": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "summaPoshlina": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TablePretenseValId": {
+        "type": "object",
+        "properties": {
+          "tabPretId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "pretId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dateTabPret": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "summaDolg": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaPeny": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaProc": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "valId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "result": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "statusId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "delet": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "summaPoshlina": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "summaDolgValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaPenyValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaProcValId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "summaPoshlinaValId": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Valutum": {
+        "type": "object",
+        "properties": {
+          "valId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "codeVal": {
+            "type": "string",
+            "nullable": true
+          },
+          "nameFull": {
+            "type": "string",
+            "nullable": true
+          },
+          "primechanie": {
+            "type": "string",
+            "nullable": true
+          },
+          "userMod": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateMod": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

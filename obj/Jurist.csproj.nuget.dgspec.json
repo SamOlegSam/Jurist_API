@@ -109,6 +109,10 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2025.7.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
@@ -116,6 +120,10 @@
             "System.Linq.Dynamic.Core": {
               "target": "Package",
               "version": "[1.6.6, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
             }
           },
           "imports": [
@@ -137,7 +145,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

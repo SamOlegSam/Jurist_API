@@ -1370,17 +1370,48 @@
           "content": {
             "application/json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/DateFilial"
               }
             },
             "text/json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/DateFilial"
               }
             },
             "application/*+json": {
               "schema": {
-                "type": "string"
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportDruzhbinec": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
               }
             }
           }
@@ -1413,20 +1444,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "type": "string",
-                "format": "date-time"
+                "$ref": "#/components/schemas/DateFilial"
               }
             },
             "text/json": {
               "schema": {
-                "type": "string",
-                "format": "date-time"
+                "$ref": "#/components/schemas/DateFilial"
               }
             },
             "application/*+json": {
               "schema": {
-                "type": "string",
-                "format": "date-time"
+                "$ref": "#/components/schemas/DateFilial"
               }
             }
           }
@@ -1574,6 +1602,68 @@
         }
       }
     },
+    "/api/Jurist/ReportFilial": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Jurist/ReportFilialHTML": {
+      "post": {
+        "tags": [
+          "Jurist"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/DateFilial"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [
@@ -1673,6 +1763,24 @@
             "nullable": true
           },
           "nameFull": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DateFilial": {
+        "type": "object",
+        "properties": {
+          "filialId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dateFrom": {
+            "type": "string",
+            "nullable": true
+          },
+          "dateTo": {
             "type": "string",
             "nullable": true
           }
@@ -1867,6 +1975,21 @@
             "nullable": true
           },
           "admin": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "adds": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "upds": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "dels": {
             "type": "integer",
             "format": "int32",
             "nullable": true

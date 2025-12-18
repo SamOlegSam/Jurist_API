@@ -1,0 +1,915 @@
+[
+  {
+    "ContainingType": "ApiMetrolog.Controllers.AuthorizeController",
+    "Method": "Login",
+    "RelativePath": "api/Authorize/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "Jurist.Models.LoginJ",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddArchive",
+    "RelativePath": "api/Jurist/AddArchive",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.Pretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddCity",
+    "RelativePath": "api/Jurist/AddCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "Jurist.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddCountry",
+    "RelativePath": "api/Jurist/AddCountry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Jurist.Models.Country",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddDoljnost",
+    "RelativePath": "api/Jurist/AddDoljnost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doljnost",
+        "Type": "Jurist.Models.Doljnost",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddFilial",
+    "RelativePath": "api/Jurist/AddFilial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filial",
+        "Type": "Jurist.Models.Filial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddLoginPassword",
+    "RelativePath": "api/Jurist/AddLoginPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Jurist.Models.LoginPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddOrganization",
+    "RelativePath": "api/Jurist/AddOrganization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "organization",
+        "Type": "Jurist.Models.Organization",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddPredmet",
+    "RelativePath": "api/Jurist/AddPredmet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "predmet",
+        "Type": "Jurist.Models.Predmet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddPretense",
+    "RelativePath": "api/Jurist/AddPretense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.Pretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddPretenseT",
+    "RelativePath": "api/Jurist/AddPretenseT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.PretenseValId",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddResult",
+    "RelativePath": "api/Jurist/AddResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "result",
+        "Type": "Jurist.Models.TablePretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddResultT",
+    "RelativePath": "api/Jurist/AddResultT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "result",
+        "Type": "Jurist.Models.TablePretenseValId",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddSotrudnik",
+    "RelativePath": "api/Jurist/AddSotrudnik",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "responsible",
+        "Type": "Jurist.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddStatus",
+    "RelativePath": "api/Jurist/AddStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "Jurist.Models.Status",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "AddValuta",
+    "RelativePath": "api/Jurist/AddValuta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valuta",
+        "Type": "Jurist.Models.Valutum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "City",
+    "RelativePath": "api/Jurist/City",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Country",
+    "RelativePath": "api/Jurist/Country",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteCity",
+    "RelativePath": "api/Jurist/DeleteCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "Jurist.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteCountry",
+    "RelativePath": "api/Jurist/DeleteCountry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Jurist.Models.Country",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteDoljnost",
+    "RelativePath": "api/Jurist/DeleteDoljnost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doljnost",
+        "Type": "Jurist.Models.Doljnost",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteFilial",
+    "RelativePath": "api/Jurist/DeleteFilial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filial",
+        "Type": "Jurist.Models.Filial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteLoginPassword",
+    "RelativePath": "api/Jurist/DeleteLoginPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Jurist.Models.LoginPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteOrganization",
+    "RelativePath": "api/Jurist/DeleteOrganization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "organization",
+        "Type": "Jurist.Models.Organization",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeletePredmet",
+    "RelativePath": "api/Jurist/DeletePredmet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "predmet",
+        "Type": "Jurist.Models.Predmet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeletePretense",
+    "RelativePath": "api/Jurist/DeletePretense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.Pretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteResult",
+    "RelativePath": "api/Jurist/DeleteResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "result",
+        "Type": "Jurist.Models.TablePretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteSotrudnik",
+    "RelativePath": "api/Jurist/DeleteSotrudnik",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "responsible",
+        "Type": "Jurist.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteStatus",
+    "RelativePath": "api/Jurist/DeleteStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "Jurist.Models.Status",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "DeleteValuta",
+    "RelativePath": "api/Jurist/DeleteValuta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valuta",
+        "Type": "Jurist.Models.Valutum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Doljnost",
+    "RelativePath": "api/Jurist/Doljnost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditCity",
+    "RelativePath": "api/Jurist/EditCity",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "Jurist.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditCountry",
+    "RelativePath": "api/Jurist/EditCountry",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Jurist.Models.Country",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditDoljnost",
+    "RelativePath": "api/Jurist/EditDoljnost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doljnost",
+        "Type": "Jurist.Models.Doljnost",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditFilial",
+    "RelativePath": "api/Jurist/EditFilial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filial",
+        "Type": "Jurist.Models.Filial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditLoginPassword",
+    "RelativePath": "api/Jurist/EditLoginPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "Jurist.Models.LoginPassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditOrganization",
+    "RelativePath": "api/Jurist/EditOrganization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "organization",
+        "Type": "Jurist.Models.Organization",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditPredmet",
+    "RelativePath": "api/Jurist/EditPredmet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "predmet",
+        "Type": "Jurist.Models.Predmet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditPretense",
+    "RelativePath": "api/Jurist/EditPretense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.Pretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditPretenseT",
+    "RelativePath": "api/Jurist/EditPretenseT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pretense",
+        "Type": "Jurist.Models.PretenseValId",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditResult",
+    "RelativePath": "api/Jurist/EditResult",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "result",
+        "Type": "Jurist.Models.TablePretense",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditResultT",
+    "RelativePath": "api/Jurist/EditResultT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "result",
+        "Type": "Jurist.Models.TablePretenseValId",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditSotrudnik",
+    "RelativePath": "api/Jurist/EditSotrudnik",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "responsible",
+        "Type": "Jurist.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditStatus",
+    "RelativePath": "api/Jurist/EditStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "status",
+        "Type": "Jurist.Models.Status",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "EditValuta",
+    "RelativePath": "api/Jurist/EditValuta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valuta",
+        "Type": "Jurist.Models.Valutum",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Filials",
+    "RelativePath": "api/Jurist/Filials",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Index",
+    "RelativePath": "api/Jurist/Index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "LoginPassword",
+    "RelativePath": "api/Jurist/LoginPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Organization",
+    "RelativePath": "api/Jurist/Organization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Predmet",
+    "RelativePath": "api/Jurist/Predmet",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Pretense",
+    "RelativePath": "api/Jurist/Pretense",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "PretenseHome",
+    "RelativePath": "api/Jurist/PretenseHome",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "PretenseT",
+    "RelativePath": "api/Jurist/PretenseT",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportConcern",
+    "RelativePath": "api/Jurist/ReportConcern",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportDruzhbinec",
+    "RelativePath": "api/Jurist/ReportDruzhbinec",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date1",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportFilial",
+    "RelativePath": "api/Jurist/ReportFilial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date1",
+        "Type": "Jurist.Models.DateFilial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportSvod",
+    "RelativePath": "api/Jurist/ReportSvod",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date1",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Sotrudniki",
+    "RelativePath": "api/Jurist/Sotrudniki",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Status",
+    "RelativePath": "api/Jurist/Status",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "Valuta",
+    "RelativePath": "api/Jurist/Valuta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ValutaKurs",
+    "RelativePath": "api/Jurist/ValutaKurs",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Jurist.WeatherForecast, Jurist, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

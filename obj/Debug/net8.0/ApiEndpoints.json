@@ -790,8 +790,56 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "date",
-        "Type": "System.DateTime",
+        "Name": "dateData",
+        "Type": "Jurist.Models.DateFilial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportDruzhbinec",
+    "RelativePath": "api/Jurist/ReportDruzhbinec",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dateData",
+        "Type": "Jurist.Models.DateFilial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportFilial",
+    "RelativePath": "api/Jurist/ReportFilial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dateData",
+        "Type": "Jurist.Models.DateFilial",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Jurist.Controllers.JuristController",
+    "Method": "ReportFilialHTML",
+    "RelativePath": "api/Jurist/ReportFilialHTML",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Jurist.Models.DateFilial",
         "IsRequired": true
       }
     ],
@@ -806,8 +854,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "date1",
-        "Type": "System.String",
+        "Name": "dateData",
+        "Type": "Jurist.Models.DateFilial",
         "IsRequired": true
       }
     ],

@@ -23,6 +23,9 @@ public partial class LoginModel
     public string FilialName { get; set; }
 
     public int? Admin { get; set; }
+    public int? Adds { get; set; }
+    public int? Upds { get; set; }
+    public int? Dels { get; set; }
     public string ThemeColor { get; set; }
     public string token { get; set; }
 

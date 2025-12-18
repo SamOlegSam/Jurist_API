@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6AF8A66A-3F12-4B0A-8DAE-79CC7F9A7827}|Jurist.csproj|d:\\projects\\jurist\\controllers\\juristcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AF8A66A-3F12-4B0A-8DAE-79CC7F9A7827}|Jurist.csproj|solutionrelative:controllers\\juristcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AF8A66A-3F12-4B0A-8DAE-79CC7F9A7827}|Jurist.csproj|d:\\projects\\jurist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AF8A66A-3F12-4B0A-8DAE-79CC7F9A7827}|Jurist.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 257,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +26,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\Jurist\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Projects\\Jurist\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T07:22:25.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "JuristController.cs",
               "DocumentMoniker": "D:\\Projects\\Jurist\\Controllers\\JuristController.cs",
               "RelativeDocumentMoniker": "Controllers\\JuristController.cs",
               "ToolTip": "D:\\Projects\\Jurist\\Controllers\\JuristController.cs",
               "RelativeToolTip": "Controllers\\JuristController.cs",
-              "ViewState": "AgIAAD8IAAAAAAAAAAAgwE0IAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAO0kAAAAAAAAAIAwwAolAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T12:39:57.036Z",
+              "WhenOpened": "2025-10-22T14:07:50.543Z",
               "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 111,
+          "DockedHeight": 257,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -71,10 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
             }
           ]
         }
